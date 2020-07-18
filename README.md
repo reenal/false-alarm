@@ -7,5 +7,5 @@ step1) clone reopo
 step2) run python app.py 
 step3) go to http://127.0.0.1:5000/apidocs/test
 step4) put testing values values from cheek file and 
-step5) predict
+step5) predict (screen shot of output prediction is git  https://github.com/reenal/false-alarm/blob/master/Picture1.png)
 
