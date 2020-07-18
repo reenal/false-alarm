@@ -5,5 +5,7 @@ This project was made for a chemical industry which had sensors installed in var
 
 step1) clone reopo 
 step2) run python app.py 
-step3) 
+step3) go to http://127.0.0.1:5000/apidocs/test
+step4) put testing values values from cheek file and 
+step5) predict
 
