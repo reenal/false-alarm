@@ -28,7 +28,7 @@ gensim==3.8.3
 htmlmin==0.1.12
 importlib-metadata==1.7.0
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 jmespath==0.10.0
 joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
 jsonschema==3.2.0
